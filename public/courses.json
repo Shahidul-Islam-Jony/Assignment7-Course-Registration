@@ -1,0 +1,67 @@
+[
+    {
+      "image": "https://i.ibb.co/KmQh4p4/Rectangle-2.png",
+      "course_name": "Introduction to OOP Python",
+      "credit": 5,
+      "price": 19000,
+      "details": "This course provides a solid foundation in programming, suitable for beginners. You'll learn the basics of programming languages such as Python and Java, understand key programming concepts, and work on hands-on exercises to build your coding skills. By the end of the course, you'll be able to write simple programs and have a strong foundation for advanced programming studies."
+    },
+    {
+      "image": "https://i.ibb.co/py6XcYJ/Rectangle-2-1.png",
+      "course_name": "Database (MySQL)",
+      "credit": 5,
+      "price": 19000,
+      "details": "Join our comprehensive Data Science Bootcamp and dive deep into the world of data analysis and machine learning. This intensive program covers data collection, data cleaning, statistical analysis, and machine learning techniques. You'll work on real-world projects and learn to extract valuable insights from data. By the end of this bootcamp, you'll be well-prepared for a career in data science."
+    },
+    {
+      "image": "https://i.ibb.co/7yBbHHH/Rectangle-2-2.png",
+      "course_name": "Introduction to C Programming",
+      "credit": 1,
+      "price": 15000,
+      "details": "Become a full-stack web developer with our Web Development Masterclass. You'll start from scratch, learning HTML, CSS, and JavaScript, and then move on to advanced topics like server-side scripting and database integration. Build responsive and dynamic web applications, and gain the skills needed to create websites and web apps that stand out in the digital landscape."
+    },
+    {
+      "image": "https://i.ibb.co/wrYG6kB/Rectangle-2-3.png",
+      "course_name": "Introduction to Algorithms",
+      "credit": 2,
+      "price": 25000,
+      "details": "In the Digital Marketing Essentials course, you'll explore the fundamental strategies and tools needed for successful online marketing campaigns. Learn about SEO, content marketing, social media marketing, and paid advertising. Discover how to analyze digital marketing performance and optimize your campaigns for better results."
+    },
+    {
+      "image": "https://i.ibb.co/47C4y34/Rectangle-2-4.png",
+      "course_name": "Introduction to C++ for DSA",
+      "credit": 10,
+      "price": 10000,
+      "details": "Delve into the world of machine learning with this course. You'll gain an understanding of machine learning algorithms, data preprocessing, model evaluation, and more. Work on practical projects that include image recognition, natural language processing, and predictive analytics. By the end of this course, you'll be equipped with valuable machine learning skills."
+    },
+    {
+      "image": "https://i.ibb.co/2vqMQGF/Rectangle-2-5.png",
+      "course_name": "Software Engineering",
+      "credit": 2,
+      "price": 23000,
+      "details": "Unleash your creativity and become a graphic design expert. Learn to use industry-standard software like Adobe Photoshop, Illustrator, and InDesign to create stunning graphics, logos, and marketing materials. Explore design principles, color theory, typography, and layout. Whether you're a beginner or looking to enhance your skills, this course has something for everyone."
+    },
+    {
+      "image": "https://i.ibb.co/8mh4cmV/Rectangle-2-6.png",
+      "course_name": "Problem-Solving Part",
+      "credit": 2,
+      "price": 23000,
+      "details": "Gain financial literacy and make informed business decisions with Business Finance 101. Understand financial statements, budgeting, risk management, and financial forecasting. Explore the world of investments, financing options, and capital structure. This course is essential for entrepreneurs, managers, and anyone looking to excel in the business world."
+    },
+    {
+      "image": "https://i.ibb.co/dMCGRhd/Rectangle-3.png",
+      "course_name": "Basic Data Structures",
+      "credit": 5,
+      "price": 35000,
+      "details": "Navigate the ethical complexities of artificial intelligence (AI) with this course. Learn about AI bias, data privacy, transparency, and accountability. Explore case studies and engage in discussions on the ethical dilemmas surrounding AI. Whether you're a developer, policymaker, or simply curious about AI's ethical implications, this course is a must."
+    },
+    {
+      "image": "https://i.ibb.co/k4QQ2g2/Rectangle-3-1.png",
+      "course_name": "AWS, Cloud Computing",
+      "credit": 5,
+      "price": 35000,
+      "details": "Capture stunning photographs with Photography Basics. Learn about camera settings, composition, lighting, and photo editing. From landscape photography to portrait shots, this course will help you unleash your creativity and take your photography skills to the next level. Perfect for hobbyists and aspiring photographers."
+    }
+  
+  ]
+  
