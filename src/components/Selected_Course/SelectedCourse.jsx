@@ -1,16 +1,17 @@
 import PropTypes from 'prop-types'
-const SelectedCourse = ({course}) => {
+const SelectedCourse = ({course,idx}) => {
     const {course_name} = course;
-    console.log(course);
+    // console.log(course);
     return (
         <div>
-            <p>{course_name}</p>
+            <p>{idx+1} {course_name}</p>
         </div>
     );
 };
 
 SelectedCourse.propTypes = {
-    course: PropTypes.object
+    course: PropTypes.object,
+    idx:PropTypes.number
 }
 
 export default SelectedCourse;
