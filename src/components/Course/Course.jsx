@@ -2,7 +2,7 @@ import PropTypes from 'prop-types'
 import { BsBook } from 'react-icons/bs'
 import { BiDollar } from 'react-icons/bi'
 
-const Course = ({ course, handleSelectBtn }) => {
+const Course = ({ course, handleSelectBtn}) => {
     // console.log(course);
     const { image, course_name, credit, price, details } = course
     return (
@@ -16,13 +16,14 @@ const Course = ({ course, handleSelectBtn }) => {
                         <BiDollar className='text-2xl'></BiDollar>
                         <p>Price : {price}</p>
                     </div>
-                    <div className='flex items-center gap-2'>
+                    <div className='flex items-center gap-4'>
                         <BsBook></BsBook>
                         <p>Credit : {credit}hr</p>
                     </div>
                 </div>
-                <button onClick={()=>handleSelectBtn(course)} className="bg-blue-600 w-full p-2 rounded-lg text-white font-semibold mt-6">Select</button>
+                <button onClick={() => handleSelectBtn(course)} className="bg-blue-600 w-full p-2 rounded-lg text-white font-semibold mt-6">Select</button>
             </div>
+
         </div>
     );
 };
