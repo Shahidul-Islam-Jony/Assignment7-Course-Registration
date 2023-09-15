@@ -2,7 +2,7 @@ import PropTypes from 'prop-types'
 import SelectedCourse from '../Selected_Course/SelectedCourse';
 const SelectedCourses = ({ selectedCourse, totalCredit,totalPrice}) => {
     return (
-        <div className="w-full lg:w-1/4 mb-4 z-10">
+        <div className="w-full lg:w-1/4 mb-4">
             <div className='w-80 bg-white mx-auto p-4 rounded-xl'>
                 <h2 className='text-lg font-bold text-blue-600 border-gray-400 border-b-2 py-4'>Credit Hour Remaining {20-totalCredit} hr</h2>
                 <h1 className='text-xl font-bold py-4'>Course Name</h1>

@@ -1,8 +1,20 @@
-# React + Vite
+## 3 Project features
+- You Can Learn many of Programming Courses.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- You get 20 credit and You can select course whatever you choose by this credit.
 
-Currently, two official plugins are available:
+- You can see credit of each course and see total credit of your selected course
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##
+
+### How I managed the state in my assignment project is described below...
+
+(i) Firstly I import { useState } from 'react' in my component.
+
+(ii) Then create variable or array and a function to set value in variable or array 
+and set initial value of variable or array to 0 or empty array like, 
+const [variable, setVariable] = useState([]);
+
+(iii) Then I set variable or array's value from my component handleFunction by setVariable Function.
+
+(iv) And I passed that variable or array as props to another file or components.
