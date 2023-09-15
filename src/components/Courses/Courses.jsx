@@ -15,8 +15,8 @@ const Courses = ({handleSelectBtn}) => {
     // console.log(courses);
 
     return (
-        <div className="w-3/4">
-            <div className="grid grid-cols-3 gap-6">
+        <div className="w-full lg:w-3/4">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {
                     courses.map(course => <Course key={course.course_name} course={course} handleSelectBtn={handleSelectBtn}></Course>)
                 }
